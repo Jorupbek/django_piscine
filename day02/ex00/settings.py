@@ -1,0 +1,2 @@
+name = 'Jorupbek'
+profession = 'webdevelop'
